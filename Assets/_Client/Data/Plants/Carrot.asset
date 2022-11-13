@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0111eb42d857d9459b605b5eab7f2a3, type: 3}
+  m_Name: Carrot
+  m_EditorClassIdentifier: 
+  plantIcon: {fileID: 21300000, guid: 3918711c71e5b8646ada546dddb53dea, type: 3}
+  plantingTime: 0.3
+  growthTime: 3
+  collectExp: 100
+  collectCount: 5
+  collectFruit: 1
+  plantModel: {fileID: 8895988287536449966, guid: 3aefb3936f11b0e4789ce8554948c521, type: 3}
